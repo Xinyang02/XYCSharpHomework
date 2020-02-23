@@ -1,0 +1,6 @@
+E:\XY_csharp_project\Caculator_1\bin\Debug\Caculator_1.exe.config
+E:\XY_csharp_project\Caculator_1\bin\Debug\Caculator_1.exe
+E:\XY_csharp_project\Caculator_1\bin\Debug\Caculator_1.pdb
+E:\XY_csharp_project\Caculator_1\obj\Debug\Caculator_1.csprojAssemblyReference.cache
+E:\XY_csharp_project\Caculator_1\obj\Debug\Caculator_1.exe
+E:\XY_csharp_project\Caculator_1\obj\Debug\Caculator_1.pdb
