@@ -1,0 +1,9 @@
+E:\XY_csharp_project\Caculator_2\bin\Debug\Caculator_2.exe.config
+E:\XY_csharp_project\Caculator_2\bin\Debug\Caculator_2.exe
+E:\XY_csharp_project\Caculator_2\bin\Debug\Caculator_2.pdb
+E:\XY_csharp_project\Caculator_2\obj\Debug\Caculator_2.csprojAssemblyReference.cache
+E:\XY_csharp_project\Caculator_2\obj\Debug\Caculator_2.Form1.resources
+E:\XY_csharp_project\Caculator_2\obj\Debug\Caculator_2.Properties.Resources.resources
+E:\XY_csharp_project\Caculator_2\obj\Debug\Caculator_2.csproj.GenerateResource.cache
+E:\XY_csharp_project\Caculator_2\obj\Debug\Caculator_2.exe
+E:\XY_csharp_project\Caculator_2\obj\Debug\Caculator_2.pdb
