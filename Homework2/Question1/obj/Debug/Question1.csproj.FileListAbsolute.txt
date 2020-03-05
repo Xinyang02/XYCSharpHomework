@@ -1,0 +1,6 @@
+E:\XY_csharp_project\Question1\bin\Debug\Question1.exe.config
+E:\XY_csharp_project\Question1\bin\Debug\Question1.exe
+E:\XY_csharp_project\Question1\bin\Debug\Question1.pdb
+E:\XY_csharp_project\Question1\obj\Debug\Question1.csprojAssemblyReference.cache
+E:\XY_csharp_project\Question1\obj\Debug\Question1.exe
+E:\XY_csharp_project\Question1\obj\Debug\Question1.pdb
