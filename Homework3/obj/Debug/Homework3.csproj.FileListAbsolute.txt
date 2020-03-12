@@ -1,0 +1,6 @@
+E:\XY_csharp_project\Homework3\obj\Debug\Homework3.csprojAssemblyReference.cache
+E:\XY_csharp_project\Homework3\bin\Debug\Homework3.exe.config
+E:\XY_csharp_project\Homework3\bin\Debug\Homework3.exe
+E:\XY_csharp_project\Homework3\bin\Debug\Homework3.pdb
+E:\XY_csharp_project\Homework3\obj\Debug\Homework3.exe
+E:\XY_csharp_project\Homework3\obj\Debug\Homework3.pdb
