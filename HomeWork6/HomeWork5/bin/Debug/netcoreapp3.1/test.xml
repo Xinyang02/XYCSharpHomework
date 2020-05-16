@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <orderItems>
+      <OrderItem>
+        <Name>a</Name>
+        <Number>1</Number>
+        <UnitPrice>12</UnitPrice>
+      </OrderItem>
+    </orderItems>
+    <OrderNum>0</OrderNum>
+    <Customer>xx</Customer>
+  </Order>
+</ArrayOfOrder>

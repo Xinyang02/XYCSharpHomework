@@ -1,0 +1,13 @@
+E:\XY_csharp_project\HomeWork6\HomeWork5\bin\Debug\netcoreapp3.1\HomeWork5.exe
+E:\XY_csharp_project\HomeWork6\HomeWork5\bin\Debug\netcoreapp3.1\HomeWork5.deps.json
+E:\XY_csharp_project\HomeWork6\HomeWork5\bin\Debug\netcoreapp3.1\HomeWork5.runtimeconfig.json
+E:\XY_csharp_project\HomeWork6\HomeWork5\bin\Debug\netcoreapp3.1\HomeWork5.runtimeconfig.dev.json
+E:\XY_csharp_project\HomeWork6\HomeWork5\bin\Debug\netcoreapp3.1\HomeWork5.dll
+E:\XY_csharp_project\HomeWork6\HomeWork5\bin\Debug\netcoreapp3.1\HomeWork5.pdb
+E:\XY_csharp_project\HomeWork6\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.csprojAssemblyReference.cache
+E:\XY_csharp_project\HomeWork6\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.csproj.CoreCompileInputs.cache
+E:\XY_csharp_project\HomeWork6\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.AssemblyInfoInputs.cache
+E:\XY_csharp_project\HomeWork6\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.AssemblyInfo.cs
+E:\XY_csharp_project\HomeWork6\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.dll
+E:\XY_csharp_project\HomeWork6\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.pdb
+E:\XY_csharp_project\HomeWork6\HomeWork5\obj\Debug\netcoreapp3.1\HomeWork5.genruntimeconfig.cache
