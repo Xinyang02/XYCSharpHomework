@@ -1,0 +1,10 @@
+E:\XY_csharp_project\Homework7\bin\Debug\Homework7.exe.config
+E:\XY_csharp_project\Homework7\bin\Debug\Homework7.exe
+E:\XY_csharp_project\Homework7\bin\Debug\Homework7.pdb
+E:\XY_csharp_project\Homework7\obj\Debug\Homework7.csprojAssemblyReference.cache
+E:\XY_csharp_project\Homework7\obj\Debug\Homework7.Form1.resources
+E:\XY_csharp_project\Homework7\obj\Debug\Homework7.Properties.Resources.resources
+E:\XY_csharp_project\Homework7\obj\Debug\Homework7.csproj.GenerateResource.cache
+E:\XY_csharp_project\Homework7\obj\Debug\Homework7.csproj.CoreCompileInputs.cache
+E:\XY_csharp_project\Homework7\obj\Debug\Homework7.exe
+E:\XY_csharp_project\Homework7\obj\Debug\Homework7.pdb
