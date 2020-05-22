@@ -1,0 +1,6 @@
+D:\Csharp\HomeWork9\HomeWork9\obj\Debug\HomeWork9.csprojAssemblyReference.cache
+D:\Csharp\HomeWork9\HomeWork9\bin\Debug\HomeWork9.exe.config
+D:\Csharp\HomeWork9\HomeWork9\bin\Debug\HomeWork9.exe
+D:\Csharp\HomeWork9\HomeWork9\bin\Debug\HomeWork9.pdb
+D:\Csharp\HomeWork9\HomeWork9\obj\Debug\HomeWork9.exe
+D:\Csharp\HomeWork9\HomeWork9\obj\Debug\HomeWork9.pdb
